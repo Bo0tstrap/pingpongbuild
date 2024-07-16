@@ -10,6 +10,8 @@
 
 > Duyurular ve güncellemeler için tweet atmıyorum, sadece [buradan](https://t.me/RuesAnnouncement) paylaşıyorum.
 
+> Sunucu olarak Ubunutu 22.04 kullancağız, 20.04 de hatalar veriyor
+
 # Kurulum.
 
 > Öncelikle kendimize [buradan](https://app.pingpong.build/points?invite_code=e6ny5YsT) bir Pingpong hesap oluşturuyoruz.
@@ -84,6 +86,8 @@ chmod +x ./PINGPONG && ./PINGPONG --key <KEY>
 
 
 <img width="370" alt="Ekran Resmi 2024-06-16 09 35 30" src="https://github.com/ruesandora/pingpongbuild/assets/101149671/5da1b540-1e67-4534-8059-0a30a49f646f">
+
+> Terminal ekranını kapatmadan CTRL+A sonra D tuşu ile screenden çıkalım daha sonra kapatabiliriz
 
 > Çok çabaladım windows için ama gece ve bayram arifesi olduğu için ve donanımsal bir problem olduğu için mecbur linux anlattım.
  
